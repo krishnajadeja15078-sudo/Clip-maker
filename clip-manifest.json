@@ -1,0 +1,15 @@
+{
+  "name": "Clip Maker",
+  "short_name": "Clips",
+  "start_url": "./clip-maker.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2740ff",
+  "theme_color": "#2740ff",
+  "icons": [
+    {"src": "clip-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "clip-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "clip-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "clip-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
